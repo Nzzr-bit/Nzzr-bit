@@ -8,7 +8,6 @@ I'm from Russia. I am a 3rd year student at the university, I started studying w
 
 * 🌍  I'm based in Volgograd, Russia
 * ✉️  You can contact me at [nzzrplp@gmail.com](mailto:nzzrplp@gmail.com)
-* 🧠  I'm learning Astro
 
 ### Skills
 
